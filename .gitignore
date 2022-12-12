@@ -1,0 +1,6 @@
+
+sdkconfig.old
+
+# Dependency directories
+build/
+.vscode/
